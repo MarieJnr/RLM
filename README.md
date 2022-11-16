@@ -1,0 +1,2 @@
+# RLM
+Régression linéaire multiple.
